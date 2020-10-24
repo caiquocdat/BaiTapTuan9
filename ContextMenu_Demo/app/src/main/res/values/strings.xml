@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BuiChungDuc_18T4</string>
+
+    <string-array name="friuts">
+        <item> Trà Sữa</item>
+        <item> Bánh Kem</item>
+        <item> Sữa chua</item>
+        <item> Kem</item>
+        <item> Cafe</item>
+        <item> Sting vàng</item>
+        <item> Sting dâu</item>
+        <item> Bạc xỉu</item>
+        <item> Kem dừa</item>
+    </string-array>
+</resources>
